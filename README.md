@@ -1,4 +1,4 @@
-![logo](https://github.com/anurag007m/anurag007m/blob/main/Github_banner_Anurag.png)
+![logo](https://github.com/anurag007m/anurag007m/blob/main/github_anurag.png)
 
 <h1 align="center">Hi 👋, I'm Anurag Mahato</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
