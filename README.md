@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anurag Mahato</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="center" alt="coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
