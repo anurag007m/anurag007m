@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **entrepreneurdream1@gmail.com**
 
-- ⚡ Fun fact **We are living in a matrix**
+- ⚡ Fun fact **A human being can do whatever it wills but cannot will what it wills.**
 
 
 
