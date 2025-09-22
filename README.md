@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full-Stack Development**
 
-- 📫 How to reach me **entrepreneurdream1@gmail.com**
+- 📫 How to reach me **https://anurag007dev.netlify.app/**
 
 - ⚡ Fun fact **A human being can do whatever it wills but cannot will what it wills.**
 
