@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Building Scalable Backend Systems | Generative AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Node.js+%7C+Express.js;C%2B%2B+%7C+DSA+%7C+System+Design;Preparing+for+FAANG+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Node.js+%7C+Express.js;C%2B%2B+%7C+DSA+%7C+System+Design" />
 </p>
 
 ---
