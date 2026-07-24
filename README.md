@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Mahato</h1>
-<h3 align="center">Software Engineer | Backend Developer | DSA Enthusiast</h3>
+<h3 align="center">Software Engineer | Building Scalable Backend Systems | Generative AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Node.js+%7C+Express.js;C%2B%2B+%7C+DSA+%7C+System+Design;Preparing+for+FAANG+%F0%9F%9A%80" />
@@ -13,9 +13,7 @@
 
 - 💼 Software Engineer from **India**
 - 🚀 Passionate about **Backend Development**
-- 🌱 Currently learning **System Design, Microservices & Advanced DSA**
-- 💬 Ask me about **Node.js, Express.js, MongoDB, REST APIs, C++**
-- 🎯 Goal: **Crack a FAANG/Product-Based Company**
+- 💬 Ask me about **Node.js, Express.js, MongoDB, REST APIs, C++,DSA,LLD,HLD**
 - 🌐 Portfolio: **https://anurag007dev.netlify.app/**
 - 📧 Email: **anurag007dk@gmail.com**
 - ⚡ **Your actions are free. Your desires are programmed. Wake up. Escape the Matrix.**
@@ -56,20 +54,15 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Profile Summary
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anurag007m&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag007m&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag007m&theme=tokyonight" />
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=anurag007m&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anurag007m&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anurag007m&theme=tokyonight" width="49%" />
 </p>
 
 ---
